@@ -19,8 +19,7 @@ This home assignment involved writing Python code in a Jupyter Notebook to visua
 3. **Uniformity data zip file**: mental imagery_uniformity-test_z_FDR_0.01.nii.gz
 
 
-Both zip files need to be unzipped to access data. 
-Ensure both files are in the same folder in your current working directory. 
+Ensure both .nii files are in the same folder in your current working directory. 
 
 
 ---
