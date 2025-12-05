@@ -17,8 +17,10 @@ Anatomical data zip file: anatomical.nii.gz
 Uniformity data zip file: mental imagery_uniformity-test_z_FDR_0.01.nii.gz
 
 
+
 Both zip files need to be unzipped to access data. 
 Ensure both files are in the same folder in your current working directory. 
+
 
 
 Python version: 3.12.4
