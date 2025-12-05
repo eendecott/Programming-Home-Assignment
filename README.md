@@ -11,7 +11,9 @@ This home assignment involved writing Python code in a Jupyter Notebook to visua
 
 ### Table of Contents
 Jupyter notebook: MRI_home_project.ipynb
+
 Anatomical data zip file: anatomical.nii.gz 
+
 Uniformity data zip file: mental imagery_uniformity-test_z_FDR_0.01.nii.gz
 
 
