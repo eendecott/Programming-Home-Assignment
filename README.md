@@ -10,6 +10,10 @@ Neurosynth link: https://neurosynth.org/analyses/terms/mental%20imagery/
 
 This home assignment involved writing Python code in a Jupyter Notebook to visualize fMRI data. In this case, fMRI data related to mental imagery. Data is visualized first by using Nilearn to create 3 cuts of related brain regions, then by using Nibabel to create a histogram of the uniformity data distribution. 
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 
 ---
 
